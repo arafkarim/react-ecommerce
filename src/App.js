@@ -1,13 +1,13 @@
-import './App.css';
+import "./App.css"
 
-import HomePage from './homepage.component';
+import HomePage from "../src/pages/homepage/homepage.component"
 
 function App() {
   return (
     <div>
       <HomePage />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
